@@ -1,4 +1,4 @@
-# **Module 2 Assignment: Green Stock Analysis**
+# **Automated Stock analysis with VBA**
 ## **Teodor Anderson**
 
 ## Overview of Project
